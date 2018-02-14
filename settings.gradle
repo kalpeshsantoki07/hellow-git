@@ -1,2 +1,3 @@
 rootProject.name = 'hellow-git'
+include 'git-module1'
 
